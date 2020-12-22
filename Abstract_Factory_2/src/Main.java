@@ -6,8 +6,8 @@ import samsung.SamsungFactory;
 
 public class Main {
     public static void main(String[] args) {
-        //AbstractFactory factory = getFactory("Apple");
-        Factory factory = getFactory("Samsung");
+        Factory factory = getFactory("Apple");
+        //Factory factory = getFactory("Samsung");
 
         Phone phone = factory.createPhone();
         Laptop laptop = factory.createLaptop();

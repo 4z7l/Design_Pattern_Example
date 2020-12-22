@@ -7,7 +7,7 @@ import abst.Phone;
 public class SamsungFactory implements Factory {
     @Override
     public Phone createPhone() {
-        return new GalaxyS20();
+        return new GalaxyS();
     }
 
     @Override

@@ -2,9 +2,9 @@ package samsung;
 
 import abst.Phone;
 
-public class GalaxyS20 implements Phone {
+public class GalaxyS implements Phone {
     @Override
     public String getName() {
-        return "GalaxyS20";
+        return "GalaxyS";
     }
 }
