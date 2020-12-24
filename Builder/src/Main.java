@@ -1,5 +1,5 @@
-import builder.PoohBuilder;
-import builder.ZzangGuBuilder;
+import builder.concrete.PoohBuilder;
+import builder.concrete.ZzangGuBuilder;
 import director.Director;
 import product.Toy;
 

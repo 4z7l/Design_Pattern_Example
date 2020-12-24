@@ -1,4 +1,6 @@
-package builder;
+package builder.concrete;
+
+import builder.ToyBuilder;
 
 public class PoohBuilder extends ToyBuilder {
     @Override
