@@ -21,6 +21,10 @@ Gang of Four Design Pattern Example in Java
 
 ## Behavioral
 
+| Behavioral | Example                   |
+| ---------- | ------------------------- |
+| Observer   | [📁](/Behavioral/Observer) |
+
 
 
 
