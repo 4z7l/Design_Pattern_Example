@@ -1,3 +1,5 @@
+package subject;
+
 public class IntegerObservable extends Observable{
 
     private int data;
